@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Viktor Fodor a 23 years old University student
+- 👀 I’m currently developing Minecraft plugins
